@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uurcakir
 - 👀 I’m interested in Java Development and SQL Database Management.
-- 🌱 I’m currently learning Java, Sql, HTML, CSS.
+- 🌱 I’m currently learning Java,Python, Sql, HTML, CSS.
 - 📫 How to reach me ugrcakir@outlook.com.tr
 
 <!---
