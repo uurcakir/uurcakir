@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uurcakir
-- 👀 I’m interested in Java, Pyhton, Android Java and SQL.
-- 🌱 I’m currently learning Java,Python, Android Java and SQL.
+- 👀 I’m interested in Spring Boot & Java and SQL.
+- 🌱 I’m currently learning every new tech.
 - 📫 How to reach me ugrcakir@outlook.com.tr
 
 <!---
